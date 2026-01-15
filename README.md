@@ -39,7 +39,9 @@ As notícias são recebidas automaticamente via **RSS** e processadas no seguint
   "url": "https://exemplo.com",
   "content": "Conteúdo completo do artigo..."
 }
+```
 📤 Formato de Saída
+
 Mensagem única em Markdown
 
 Estrutura clara e padronizada
@@ -55,6 +57,7 @@ Newsletters
 Dashboards técnicos
 
 🛠️ Tecnologias Utilizadas
+
 n8n (Automação e orquestração)
 
 RSS
@@ -66,6 +69,7 @@ Markdown
 Webhooks (Discord)
 
 🚀 Possíveis Melhorias
+
 Adicionar mais fontes RSS
 
 Filtro por stack (Java, JS, Python, etc.)
@@ -77,4 +81,5 @@ Suporte multilíngue
 Publicação em múltiplos canais
 
 📄 Licença
+
 Projeto open-source para fins educacionais e profissionais.
