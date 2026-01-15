@@ -40,46 +40,55 @@ As notícias são recebidas automaticamente via **RSS** e processadas no seguint
   "content": "Conteúdo completo do artigo..."
 }
 ```
-📤 Formato de Saída
 
-Mensagem única em Markdown
+---
 
-Estrutura clara e padronizada
+## 📤 Formato de Saída
 
-Ideal para:
+- Mensagem única em Markdown
 
-Discord
+- Estrutura clara e padronizada
 
-Telegram
+- Ideal para:
 
-Newsletters
+  - Discord
 
-Dashboards técnicos
+  - Telegram
 
-🛠️ Tecnologias Utilizadas
+  - Newsletters
 
-n8n (Automação e orquestração)
+  - Dashboards técnicos
 
-RSS
+---
 
-Inteligência Artificial (LLM)
+## 🛠️ Tecnologias Utilizadas
 
-Markdown
+- n8n (Automação e orquestração)
 
-Webhooks (Discord)
+- RSS
 
-🚀 Possíveis Melhorias
+- Inteligência Artificial (LLM)
 
-Adicionar mais fontes RSS
+- Markdown
 
-Filtro por stack (Java, JS, Python, etc.)
+- Webhooks (Discord)
 
-Histórico diário de resumos
+---
 
-Suporte multilíngue
+## 🚀 Possíveis Melhorias
 
-Publicação em múltiplos canais
+- Adicionar mais fontes RSS
 
-📄 Licença
+- Filtro por stack (Java, JS, Python, etc.)
+
+- Histórico diário de resumos
+
+- Suporte multilíngue
+
+- Publicação em múltiplos canais
+
+---
+
+## 📄 Licença
 
 Projeto open-source para fins educacionais e profissionais.
